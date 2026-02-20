@@ -1,0 +1,6 @@
+; example.zone – sample BIND-style zone file for PrivacyDNS
+; Format: <name> <ttl> IN A <ip>
+; Lines starting with ; or # are comments and are ignored.
+
+example.com.      600  IN  A  93.184.216.34
+www.example.com.  600  IN  A  93.184.216.34

@@ -1,0 +1,8 @@
+{
+  "useast2-www.securly.com": "203.0.113.10",
+  "useast2-dp.securly.com": "127.0.0.1",
+  "*.prx.useast2.v1api.securly.com": "127.0.0.1",
+  "*.pacrpc.useast2.v1api.securly.com": "127.0.0.1",
+  "wpad": "0.0.0.0",
+  "wpad.local": "0.0.0.0"
+}
